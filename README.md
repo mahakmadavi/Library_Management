@@ -1,7 +1,9 @@
 # Library Management SQL Project
 
 ## Project Description
-This project is a Library Management System created using SQL.
+Library Management SQL Project is a database management project developed using SQL to manage the day-to-day operations of a library. 
+The project stores and manages information about books, library members, and borrowed books.
+It uses SQL queries to retrieve, filter, organize, and analyze data, helping generate useful reports and insights from the library database.
 
 ## Features
 - Manage books
@@ -19,11 +21,3 @@ This project is a Library Management System created using SQL.
 - Aggregate Functions
 - CASE Statement
 - Subqueries
-- CTE
-- Window Functions
-- Views
-
-## Tools Used
-- PostgreSQL
-- pgAdmin 4
-- GitHub
